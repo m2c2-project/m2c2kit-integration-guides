@@ -1,3 +1,7 @@
+> [!WARNING]
+> **Important:** This repository is no longer supported. Please visit our current site for information on integrating M2C2 assessments into your projects: [M2C2 Hub](https://m2c2-project.github.io/hub/) 
+
+
 # M2C2kit Overview
 
 [`m2c2kit`](https://m2c2-project.github.io/m2c2kit/) is a Typescript/Javascript framework for rapid-creation and iteration of cognitive assessments.
